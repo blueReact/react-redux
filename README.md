@@ -11,3 +11,19 @@ This is a simple example demonstrating how to use **React local state** and **Re
 ```bash
 git clone https://github.com/blueReact/react-redux.git
 cd react-redux
+
+🔧 Project Structure
+src/
+├── App.jsx
+├── index.css
+├── index.jsx
+├── reducer.js
+├── components/
+│   ├── ReactComponent.jsx
+│   └── ReduxComponent.jsx
+
+📦 Tech Stack
+-React
+-Redux
+-Vite (for development server)
+-JavaScript (ES6)
